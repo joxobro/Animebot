@@ -1,0 +1,6 @@
+TOKEN = "8205183582:AAEosMh9wmVBV6G1EDyN-Uc9fuKia7zj-Is"
+ADMIN_ID = 6240770211
+STORAGE_CHANNEL = -1003124160853  # Manfiy qilib o'zgartirdik
+MAIN_CHANNEL_USERNAME = "https://t.me/TheAniVoid"
+DATA_FILE = "bot_data.json"
+REFERRAL_LIMIT = 6
